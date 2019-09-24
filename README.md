@@ -1,1 +1,1 @@
-"git commands" 
+"AI and machine learning work" 
